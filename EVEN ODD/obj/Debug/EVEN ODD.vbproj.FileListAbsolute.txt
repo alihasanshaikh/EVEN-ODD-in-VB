@@ -1,0 +1,10 @@
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\ResolveAssemblyReference.cache
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\WindowsApplication1.Form1.resources
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\WindowsApplication1.Resources.resources
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\EVEN ODD.vbproj.GenerateResource.Cache
+C:\2005690144\EVEN ODD\EVEN ODD\bin\Debug\EVEN ODD.exe
+C:\2005690144\EVEN ODD\EVEN ODD\bin\Debug\EVEN ODD.pdb
+C:\2005690144\EVEN ODD\EVEN ODD\bin\Debug\EVEN ODD.xml
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\EVEN ODD.exe
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\EVEN ODD.xml
+C:\2005690144\EVEN ODD\EVEN ODD\obj\Debug\EVEN ODD.pdb
